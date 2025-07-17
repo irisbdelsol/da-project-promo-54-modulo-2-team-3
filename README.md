@@ -10,30 +10,33 @@
 
 proyecto-musicstream/
 ├── data/
-│   ├── flamenco/
-│   │   ├── flamenco_2000_2001.csv
-│   │   └── flamenco_2000_2001.ipynb
-│   ├── hip hop/
-│   │   ├── hip_hop_2000_2001.csv
-│   │   └── hip_hop_2000_2001.ipynb
-│   ├── orchestra/
-│   │   ├── orchestra_2000_2001.csv
-│   │   └── orchestra_2000_2001.ipynb
-│   ├── rock/
-│   │   ├── rock_2000_2001.csv
-│   │   └── rock_2000_2001.ipynb
-│   └── tango/
-│       ├── tango_2000_2001.csv
-│       └── tango_2000_2001.ipynb
+│     ├── flamenco/
+│     │   ├── flamenco_2000_2001.csv
+│     │   └── flamenco_2000_2001.ipynb
+│     ├── hip hop/
+│     │   ├── hip_hop_2000_2001.csv
+│     │   └── hip_hop_2000_2001.ipynb
+│     ├── orchestra/
+│     │   ├── orchestra_2000_2001.csv
+│     │   └── orchestra_2000_2001.ipynb
+│     ├── rock/
+│     │   ├── rock_2000_2001.csv
+│     │   └── rock_2000_2001.ipynb
+│     └── tango/
+│         ├── tango_2000_2001.csv
+│         └── tango_2000_2001.ipynb
+│
 ├── notebooks/
 │   ├── artistas_total_unicos.csv
 │   └── integracion_py_sql.ipynb
+│
 ├── presentacion/
 │   └── presentacion.slides
+│
 ├── sql/
 │   └── musicstream.sql
+│
 └── README.md
-
 
 ---
 
