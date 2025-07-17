@@ -35,7 +35,7 @@ MusicStream es una plataforma de streaming interesada en conocer las tendencias 
 ## 📊 Datos extraídos
 
 - **Rango de años:** 2000–2001  
-- **Géneros analizados:** Pop, Rock, Hip-Hop, Electrónica  
+- **Géneros analizados:** Rock, Hip-Hop, Flamenco, Orquestral y Tango
 - **Información extraída:**
   - Desde Spotify: canciones, álbumes, artistas, géneros, fechas
   - Desde last.fm: biografías, popularidad, artistas similares
