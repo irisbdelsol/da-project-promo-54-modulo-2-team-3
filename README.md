@@ -94,14 +94,14 @@ Finalizado, con posibilidad de generar nuevos features.
 
 ## Capturas de pantalla
 
-![alt text](<Captura de pantalla 2025-07-17 a la(s) 11.04.30 p. m..png>) 
+![alt text](<imagenes/Captura de pantalla 2025-07-17 a la(s) 11.04.30 p. m..png>) 
 
-![alt text](<Captura de pantalla 2025-07-17 a la(s) 11.04.58 p. m..png>) 
+![alt text](<imagenes/Captura de pantalla 2025-07-17 a la(s) 11.04.58 p. m..png>) 
 
-![alt text](<Captura de pantalla 2025-07-17 a la(s) 11.05.27 p. m..png>) 
+![alt text](<imagenes/Captura de pantalla 2025-07-17 a la(s) 11.05.27 p. m..png>) 
 
-![alt text](<Captura de pantalla 2025-07-17 a la(s) 11.07.04 p. m..png>) 
+![alt text](<imagenes/Captura de pantalla 2025-07-17 a la(s) 11.07.04 p. m..png>) 
 
-![alt text](<Captura de pantalla 2025-07-17 a la(s) 11.07.29 p. m..png>)
+![alt text](<imagenes/Captura de pantalla 2025-07-17 a la(s) 11.07.29 p. m..png>)
 
 ---
